@@ -1,0 +1,12 @@
+Q-Tronic	60	0	133	10	PBJOMJ+LinBiolinumT
+Engineering	138	0	237	10	PBJOMJ+LinBiolinumT
+April	444	0	485	10	PBJOMJ+LinBiolinumT
+21,	490	0	513	10	PBJOMJ+LinBiolinumT
+2019	518	0	555	10	PBJOMJ+LinBiolinumT
+BSPD	772	0	820	10	PBJOMJ+LinBiolinumT
+FSG	825	0	860	10	PBJOMJ+LinBiolinumT
+2019	865	0	902	10	PBJOMJ+LinBiolinumT
+v0.3	907	0	939	10	PBJOMJ+LinBiolinumT
+4	495	985	504	1000	VCRLPD+LinLibertineT
+##LTFigure##	60	125	940	881	default
+##LTLine##	60	16	939	16	default
