@@ -1,3 +1,20 @@
+#It is suggested to create a virtualenv, but not required. 
+
+Quick set up
+
+```pip install -r requirements.txt ```
+
+Process pdf files into a standard format
+```python scripts/pdf_process.py --data_dir ./datasheets --output_dir ./outs ```
+
+Currently there is only one pdf file, open the notebook in the
+notebook for explorations and potential applications
+
+```jupyter-notebook info_extraction_experimentation.ipynb```
+
+
+
+
 # DocBank
 
 DocBank is a new large-scale dataset that is constructed using a weak supervision approach. It enables models to integrate both the textual and layout information for downstream tasks. The current DocBank dataset totally includes 500K document pages, where 400K for training, 50K for validation and 50K for testing.
