@@ -1,18 +1,18 @@
-#It is suggested to create a virtualenv, but not required. 
-
-Quick set up
+## Quick set up for exploration on data
 
 ```pip install -r requirements.txt ```
 
-Process pdf files into a standard format
-```python scripts/pdf_process.py --data_dir ./datasheets --output_dir ./outs ```
+I have placed a sample datasheet in the datasheets directory and
+processed sample outputs in the outs directory. 
 
-Currently there is only one pdf file, open the notebook in the
-notebook for explorations and potential applications
+Exploration for processing data from a single file. =
 
 ```jupyter-notebook info_extraction_experimentation.ipynb```
 
+To process additional datasheets, simply add more pdf files to the
+datasheets directory and run the following command.
 
+```python scripts/pdf_process.py --data_dir ./datasheets --output_dir ./outs ```
 
 
 # DocBank
