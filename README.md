@@ -2,10 +2,10 @@
 
 ```pip install -r requirements.txt ```
 
-I have placed a sample datasheet in the datasheets directory and
-processed sample outputs in the outs directory. 
+I have placed a sample datasheet in the **datasheets** directory and
+processed sample outputs in the **outs** directory. 
 
-Exploration for processing data from a single file. =
+Exploration for processing data from a single file.
 
 ```jupyter-notebook info_extraction_experimentation.ipynb```
 
